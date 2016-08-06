@@ -1,0 +1,68 @@
+_repo: Stories-from-the-Italian-Poets--with-Lives-of-the-Writers-Volume-2_10635
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariost, Lodovico
+    - Ariosto, Ludovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
+  - agent_name: Boiardo, Matteo Maria
+    aliases:
+    - Bojardo, Matteo Maria, conte di Scandiano
+    - Boiardo, Mattheo Maria
+    - Boyardo, Matteo Maria
+    birthdate: 1440
+    deathdate: 1494
+    gutenberg_agent_id: '6265'
+    url: http://www.gutenberg.org/2009/agents/6265
+    wikipedia: http://en.wikipedia.org/wiki/Matteo_Maria_Boiardo
+  - agent_name: Tasso, Torquato
+    aliases:
+    - Dasso, Dorkuato
+    - Tasso, Torquata
+    - Taso, Torquato
+    - Tasso, Torcuato
+    - Tasso, Torkvato
+    birthdate: 1544
+    deathdate: 1595
+    gutenberg_agent_id: '218'
+    url: http://www.gutenberg.org/2009/agents/218
+    wikipedia: http://en.wikipedia.org/wiki/Torquato_Tasso
+creator:
+  author:
+    agent_name: Hunt, Leigh
+    alias: Hunt, James Henry Leigh
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '3612'
+    url: http://www.gutenberg.org/2009/agents/3612
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, Italian -- Biography'
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- Translations into English'
+- GITenberg
+tableOfContents: BOIARDO. Critical notice of his life and genius -- The adventures
+  of Angelica -- The death of Agrican -- The Saracen friends, Part the Second -- Seeing
+  and believing -- ARIOSTO. Critical notice of his life and genius -- The adventures
+  of Angelica -- Astolfo's journey to the moon -- Ariodante and Ginerva -- Suspicion
+  -- Isabella -- TASSO. Critical notice of his life and genius -- Olindo and Sophronia
+  -- Tancred and Clorinda -- Rinaldo and Armida; with the adventure of the enchanted
+  forest.
+title: 'Stories from the Italian Poets: with Lives of the Writers, Volume 2'
+url: http://www.gutenberg.org/ebooks/10635
